@@ -3,14 +3,15 @@
 // Não conta pra ninguém, mas no intervalo entre 2 e 150 existem 50 números divisíveis por 3 ;)
 
 let resultado = 0;
-for(let i = 2; i < 150; i++){
-    if (i%3 === 0) {
-        result = result + 1
-}
-console.log(resultado)
-    if(result === 50){
-        console.log('Passamos por mais uma!!!')
+
+for(index = 2; index <= 150; index += 1){
+    if(index % 3 == 0){
+        resultado += 1;
     }
 }
-
-
+if(resultado == 50){
+    console.log("SDDS HTML e CSS");
+}
+else{
+    console.log(resultado, 'números divisíveis por 3.')
+}
