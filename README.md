@@ -20,6 +20,6 @@ Este é o primeiro projeto do Módulo Fundamentos desenvolvido por Karina Gonzal
 Este projeto é licenciado sob a MIT License.
 
 ## Notas finais
-Obrigado por verificar o Projeto Algoritms! Espero que você encontre esses algoritmos úteis para seus projetos. Se tiver alguma sugestão ou encontrar algum problema, não hesite em abrir uma [issue](<link>). 😊
+Obrigado por verificar o Projeto Algoritms! Espero que você encontre esses algoritmos úteis para seus projetos. Se tiver alguma sugestão ou encontrar algum problema, não hesite em abrir uma [issue](https://github.com/KarinaGonzalez99/Projeto-Algoritmos-JS/issues). 😊
 
 Divirta-se programando! 🎉👩‍💻👨‍💻
